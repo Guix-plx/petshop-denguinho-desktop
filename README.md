@@ -4,10 +4,20 @@ Sistema desktop desenvolvido em Java para agendamento e controle de serviços em
 
 ## 📌 Funcionalidades
 - Cadastro de clientes e pets
+![image](https://github.com/user-attachments/assets/6ccdad3b-1c22-4d6e-abf7-1aaea3ca7d03)
+![image](https://github.com/user-attachments/assets/534ae07d-f5b1-4af4-8907-b07b550ca5eb)
+
 - Agendamento de serviços (banho, tosa, consultas)
+  ![image](https://github.com/user-attachments/assets/4ff08883-c07c-4eb9-99e0-3cbf775617a0)
 - Consulta de agendamentos
+  ![image](https://github.com/user-attachments/assets/42f5cb56-2c4c-4def-b9d0-e4fbd8993fe6)
+
 - Controle de caixa e geração de relatórios
+  ![image](https://github.com/user-attachments/assets/e67a4f57-7456-45c1-8490-3bbf873516c4)
+![image](https://github.com/user-attachments/assets/b7643f39-b946-42cf-b900-eacaa8bf21e0)
+
 - Interface gráfica intuitiva
+![image](https://github.com/user-attachments/assets/f0d904d4-657e-44fe-928b-ba8f415a614c)
 
 ## 🚀 Tecnologias Utilizadas
 - Java (NetBeans)
