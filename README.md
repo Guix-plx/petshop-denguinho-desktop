@@ -33,17 +33,8 @@ Sistema desktop desenvolvido em Java para agendamento e controle de serviços em
 - Luana Dias da Silva Sacutti – Dev Team  
 - Guilherme Almeida da Silva – Scrum Master
 
-## 📁 Estrutura recomendada
-```
-/src/
-  ├── model/
-  ├── dao/
-  ├── view/
-  └── main/
 
-/banco/ → banco.db  
-/lib/   → bibliotecas (JCalendar, JXL, SQLite JDBC)
-```
+
 
 ## 📝 Licença
 Distribuído sob a licença MIT. Consulte `LICENSE` para mais informações.
